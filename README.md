@@ -27,7 +27,7 @@ This project demonstrates core JavaScript concepts such as DOM manipulation, eve
 You can view the live project here:
 
 👉 **View Live Demo (GitHub Pages)**
-[https://your-username.github.io/javascript-calculator/](https://your-username.github.io/javascript-calculator/)
+[https://your-username.github.io/javascript-calculator/]([https://your-username.github.io/javascript-calculator/](https://github.com/RanbirProjects/A-Simple-Calculator.git)
 
 ---
 
