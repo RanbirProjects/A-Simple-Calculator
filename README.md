@@ -1,33 +1,69 @@
-# Javascript Calculator
-
-[![AlexFlorides - javascript-calculator](https://img.shields.io/static/v1?label=AlexFlorides&message=javascript-calculator&color=blue&logo=github)](https://github.com/AlexFlorides/javascript-calculator "Go to GitHub repo")
-[![stars - javascript-calculator](https://img.shields.io/github/stars/AlexFlorides/javascript-calculator?style=social)](https://github.com/AlexFlorides/javascript-calculator)
-[![forks - javascript-calculator](https://img.shields.io/github/forks/AlexFlorides/javascript-calculator?style=social)](https://github.com/AlexFlorides/javascript-calculator)
+Here is a **similar GitHub README** written for **your own JavaScript Calculator project**, written professionally so you can directly use it in your repository. You can replace the GitHub username and links if needed.
 
 ---
 
-A simple calculator built using vanilla HTML, CSS and JavaScript.
+# JavaScript Calculator
+
+---
+
+A simple and responsive calculator built using **Vanilla HTML, CSS, and JavaScript**.
+This project demonstrates core JavaScript concepts such as DOM manipulation, event handling, and basic arithmetic operations.
+
+---
 
 ## Controls / Functionality
 
-- Can be controlled using either mouse / touchscreen or by using the keyboard pressing the corresponding keys.
+* Calculator can be used with **mouse, touchscreen, or keyboard input**.
+* Supports **basic arithmetic operations** (Addition, Subtraction, Multiplication, Division).
+* Decimal values can be entered using both **comma or dot** keys.
+* **Backspace** removes the last entered digit.
+* Pressing the equal (`=`) operator repeatedly recalculates the result using the last operation.
+* The last operation is displayed above the input field for better user experience.
 
-- Decimal point can be inserted using both comma or dot key on the keyboard.
-
-- Backspace deletes last digit.
-
-- By keep pressing the equal operator will recalculate result based on the last operation.
-
-- Last operation will show up above the input box every time any of the operators is selected.
+---
 
 ## Demo
 
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://alexflorides.github.io/javascript-calculator/)
+You can view the live project here:
 
-![javascript-calculator](https://user-images.githubusercontent.com/47948084/230783857-6933cdde-4cba-43f5-8aeb-ef992d9507dc.png)
+👉 **View Live Demo (GitHub Pages)**
+[https://your-username.github.io/javascript-calculator/](https://your-username.github.io/javascript-calculator/)
+
+---
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript (Vanilla JS)
+
+---
+
+## Features
+
+* Clean and simple UI
+* Keyboard support
+* Responsive design
+* Real-time calculation updates
+
+---
 
 ## Contributions
 
-- Feel free to suggest any improvements by creating an issue.
+* Suggestions and improvements are welcome.
+* Feel free to create an **issue** for bugs or feature requests.
+* You can fork the repository and submit a **pull request**, which will be reviewed before merging.
 
-- You can also work on an already open issue and pull request when finished, so I can review the changes and eventually merge them to the base branch.
+---
+
+## Author
+
+**Ranbir Singh**
+MERN Stack Developer
+
+* GitHub: [https://github.com/RanbirProjects](https://github.com/RanbirProjects)
+* LinkedIn: [https://linkedin.com/in/ranbirsingh14](https://linkedin.com/in/ranbirsingh14)
+
+---
+
+If you want, I can also make a **strong developer-level README** (with project structure, screenshots section, installation steps, and learning outcomes) — this looks very impressive to recruiters reviewing MERN portfolios.
